@@ -12,6 +12,8 @@ We will provide some information about the feature they are integrating. This di
 
 Information about the step they are about to complete.
 
+[Currency Codes](./currency-code.html)
+
 > 1. asdfasdf
 > 1. werwerwe
 
