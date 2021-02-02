@@ -18,16 +18,16 @@ Here are some resources that we recommend taking a look at!
 
 ### Repository & tools
 
-* GitHub repository: https://github.com/Commerce Hub
-* Product demos and dev tools: https://Commerce Hub.dev/
-* Commerce Hub CLI: https://dev.fiserv.com/commercehub/docs/Commerce Hub-cli
+* GitHub repository: https://github.com/CommerceHub
+* Product demos and dev tools: https://CommerceHub.dev/
+* Commerce Hub CLI: https://dev.fiserv.com/commercehub/docs/CommerceHub-cli
 * API libraries: https://dev.fiserv.com/commercehub/docs/libraries
 
 ### Additional resources
 
 * Commerce Hub system status: https://status.dev.fiserv.com/commercehub/
-* Commerce Hub community: http://irc.lc/freenode/Commerce Hub
-* Switching to Commerce Hub: https://dev.fiserv.com/commercehub/docs/recipes/switching-to-Commerce Hub
+* Commerce Hub community: http://irc.lc/freenode/CommerceHub
+* Switching to Commerce Hub: https://dev.fiserv.com/commercehub/docs/recipes/switching-to-CommerceHub
 
 ### Staying up to date
 
