@@ -110,6 +110,24 @@ paths:
       tags: []
       responses: {}
       operationId: get-layouts
+  /live:
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: get-live
+  /ready:
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: get-ready
+  /about:
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: get-about
 components:
   schemas:
     User:
