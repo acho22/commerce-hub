@@ -11,23 +11,23 @@ Here are some resources that we recommend taking a look at!
 
 ### Integration docs
 
-* Commerce Hub Docs: [https://Commerce Hub.com/docs](https://Commerce Hub.com/docs)
-* API Docs: https://Commerce Hub.com/docs/api
-* Commerce Hub.js Reference: https://Commerce Hub.com/docs/js
-* FAQs: https://support.Commerce Hub.com/
+* Commerce Hub Docs: [https://dev.fiserv.com/commercehub/docs](https://dev.fiserv.com/commercehub/docs)
+* API Docs: https://dev.fiserv.com/commercehub/docs/api
+* Commerce Hub.js Reference: https://dev.fiserv.com/commercehub/docs/js
+* FAQs: https://support.dev.fiserv.com/commercehub/
 
 ### Repository & tools
 
 * GitHub repository: https://github.com/Commerce Hub
 * Product demos and dev tools: https://Commerce Hub.dev/
-* Commerce Hub CLI: https://Commerce Hub.com/docs/Commerce Hub-cli
-* API libraries: https://Commerce Hub.com/docs/libraries
+* Commerce Hub CLI: https://dev.fiserv.com/commercehub/docs/Commerce Hub-cli
+* API libraries: https://dev.fiserv.com/commercehub/docs/libraries
 
 ### Additional resources
 
-* Commerce Hub system status: https://status.Commerce Hub.com/
+* Commerce Hub system status: https://status.dev.fiserv.com/commercehub/
 * Commerce Hub community: http://irc.lc/freenode/Commerce Hub
-* Switching to Commerce Hub: https://Commerce Hub.com/docs/recipes/switching-to-Commerce Hub
+* Switching to Commerce Hub: https://dev.fiserv.com/commercehub/docs/recipes/switching-to-Commerce Hub
 
 ### Staying up to date
 
@@ -35,7 +35,7 @@ Here are some resources that we recommend taking a look at!
 
 ## Setting up your account
 
-* Sign-up for an account here: https://dashboard.Commerce Hub.com/register
+* Sign-up for an account here: https://dashboard.dev.fiserv.com/commercehub/register
 * Follow the instructions on the front page to help determine what type of integration you want to build
 * Activate your account! This is really important to complete so that you can payout to your account
 * As you start building out your integration, you’ll also want to be able to safely test. Make sure to get your test and live API keys. You can switch your account view to see test data by using the toggle on the left hand-side bar
@@ -43,13 +43,17 @@ Here are some resources that we recommend taking a look at!
 * After you make your first charge, just note that the first payout for every new Commerce Hub account is made 7 business days after the first successful payment is received - more about this here!
 
 [Import customer card numbers from another payment provider to Commerce Hub]()
+
 If you want to migrate customer card information from a different payment provider to Commerce Hub, contact Commerce Hub support and we will walk you through…
 
 [Business identification and bank account ownership verification process]()
+
 To verify your business, Commerce Hub requires the following for review: Business ownership verification: We will confirm the identification information you…
 
 [Passport, ID, or driver's license upload requirement]()
+
 In certain countries, Commerce Hub is required to collect, verify, and maintain identity information on the individuals associated with a Commerce Hub account…
 
 [Add a bank account for payouts]()
+
 If you do not have a bank account on file in Commerce Hub, you will need to add one before you’re able to receive payouts. To add a bank account Log into…
