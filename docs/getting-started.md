@@ -2,6 +2,8 @@
 
 ## Welcome to Commerce Hub!
 
+![hero](./../assets/images/download.png)
+
 To help get you started, we’ve put together a few resources to help you learn about how to integrate with Commerce Hub.
 
 ## Intro to our resources
